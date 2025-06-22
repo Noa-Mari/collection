@@ -6,12 +6,17 @@ public class CollectionOperations : ICollectionOperations
     {
         // Deleting a middle element
         list.RemoveAt(list.Count / 2);
+
+          // sharcing in the list for the word "mama"
+        if (list.Contains("mama"))
+        {
+            list.Add("6");
+        }
+        Console.WriteLine($"\n\nsharcing in the list for the word mama :");
+        loopPrint(list);
     }
 
-    private void loopPrint(List<string> list)
-    {
-       
-    }
+ 
 
     public void DictionaryOperations(Dictionary<string, int> dictionary)
     {
