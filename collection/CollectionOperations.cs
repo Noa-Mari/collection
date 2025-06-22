@@ -45,7 +45,10 @@ public class CollectionOperations : ICollectionOperations
 
     public void DictionaryOperations(Dictionary<string, int> dictionary)
     {
-      
+       if (dictionary["scuba"] == 6)
+        {
+            dictionary["dive"] = 6;
+        }
 
     }
     public void StackOperations(Stack<DateTime> stack)
