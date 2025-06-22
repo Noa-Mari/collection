@@ -53,6 +53,15 @@ public class CollectionOperations : ICollectionOperations
     }
     public void StackOperations(Stack<DateTime> stack)
     {
-       
+        DateTime currentDate = DateTime.Now;
+        DateTime stackDate = stack.Pop();
+        if (stackDate < currentDate)
+        {
+            stack.Push(currentDate);
+        }
+        else
+        {
+            stack.Push(stackDate);
+        }
     }
 }
