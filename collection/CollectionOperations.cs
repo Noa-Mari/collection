@@ -12,17 +12,33 @@ public class CollectionOperations : ICollectionOperations
         {
             list.Add("6");
         }
-        Console.WriteLine($"\n\nsharcing in the list for the word mama :");
-        loopPrint(list);
-        
-          //flip list if the index of "course59" is even
+     
+
+        //flip list if the index of "course59" is even
         int index = list.IndexOf("course59");
         if (index >= 0 && index % 2 == 0)
         {
             list.Reverse();
         }
-        Console.WriteLine($"\nflip list if the index of course59 is even {list}");
-        loopPrint(list);
+       
+         //number of elements in the list no repeated
+        int count = 0;
+        for (int i = 0; i < list.Count; i++)
+        {
+            for (int j = i; i < list.Count; i++)
+            {
+                if (i != j)
+                {
+                    count++;
+                }
+            }
+        }
+        if (count == 3)
+        {
+            list.Insert(3, "2");
+            list.Insert(4, "3");
+            list.Insert(5, "4");
+        }
     }
 
  
