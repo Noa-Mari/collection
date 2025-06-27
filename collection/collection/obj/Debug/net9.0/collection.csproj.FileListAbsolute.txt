@@ -1,0 +1,15 @@
+/Users/noamari/Desktop/mamas/collection/collection/collection/bin/Debug/net9.0/collection
+/Users/noamari/Desktop/mamas/collection/collection/collection/bin/Debug/net9.0/collection.deps.json
+/Users/noamari/Desktop/mamas/collection/collection/collection/bin/Debug/net9.0/collection.runtimeconfig.json
+/Users/noamari/Desktop/mamas/collection/collection/collection/bin/Debug/net9.0/collection.dll
+/Users/noamari/Desktop/mamas/collection/collection/collection/bin/Debug/net9.0/collection.pdb
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.AssemblyInfoInputs.cache
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.AssemblyInfo.cs
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.csproj.CoreCompileInputs.cache
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.sourcelink.json
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.dll
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/refint/collection.dll
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.pdb
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/collection.genruntimeconfig.cache
+/Users/noamari/Desktop/mamas/collection/collection/collection/obj/Debug/net9.0/ref/collection.dll

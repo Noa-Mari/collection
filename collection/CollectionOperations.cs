@@ -22,22 +22,10 @@ public class CollectionOperations : ICollectionOperations
         }
        
          //number of elements in the list no repeated
-        int count = 0;
-        for (int i = 0; i < list.Count; i++)
-        {
-            for (int j = i; i < list.Count; i++)
-            {
-                if (i != j)
-                {
-                    count++;
-                }
-            }
-        }
+        int count = list.Distinct().Count();
         if (count == 3)
         {
-            list.Insert(3, "2");
-            list.Insert(4, "3");
-            list.Insert(5, "4");
+            list.InsertRange(3, new List<string> { "2", "3", "4" });
         }
     }
 

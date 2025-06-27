@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/noamari/mamas/exnew/collection/collection/collection/collection.csproj",
+      "projectUniqueName": "/Users/noamari/Desktop/mamas/collection/collection/collection/collection.csproj",
       "projectName": "collection",
-      "projectPath": "/Users/noamari/mamas/exnew/collection/collection/collection/collection.csproj",
+      "projectPath": "/Users/noamari/Desktop/mamas/collection/collection/collection/collection.csproj",
       "packagesPath": "/Users/noamari/.nuget/packages/",
-      "outputPath": "/Users/noamari/mamas/exnew/collection/collection/collection/obj/",
+      "outputPath": "/Users/noamari/Desktop/mamas/collection/collection/collection/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/noamari/.nuget/NuGet/NuGet.Config"
